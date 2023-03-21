@@ -137,6 +137,7 @@ button:active{
  
 .model{
     height: 300px;
+    width: 300;
     position: absolute;
     bottom: 60px;
     left: 80%;
