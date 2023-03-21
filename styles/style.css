@@ -139,7 +139,7 @@ button:active{
     height: 400px;
     width: 400px;
     position: absolute;
-    bottom: 60px;
+    bottom: 100px;
     left: 80%;
     transform: translateX(-70%);
 }
