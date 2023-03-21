@@ -139,9 +139,9 @@ button:active{
     height: 400px;
     width: 400px;
     position: absolute;
-    bottom: 40px;
+    bottom: 60px;
     left: 80%;
-    transform: translateX(-70%);
+    transform: translateX(-60%);
 }
  
 .portfolio-page{
