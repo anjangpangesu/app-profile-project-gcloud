@@ -136,12 +136,12 @@ button:active{
 }
  
 .model{
-    height: 400px;
-    width: 400px;
+    height: 350px;
+    width: 350px;
     position: absolute;
     bottom: 60px;
     left: 80%;
-    transform: translateX(-60%);
+    transform: translateX(-70%);
 }
  
 .portfolio-page{
